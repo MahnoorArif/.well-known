@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mahnoor.cv.base",
+    "sha256_cert_fingerprints":
+    ["EE:76:38:2A:A5:F8:7E:DD:DD:05:1F:A3:D4:69:89:2E:1F:91:F1:20:57:F0:E2:6D:96:C5:AC:BB:EF:04:BA:49"]
+  }
+}]
